@@ -3,11 +3,11 @@
 ## Tech Stack
 stackshareiodev/ad_public-apis is built on the following main stack:
 
-- [Ruby](https://www.ruby-lang.org) – Languages
 - [Python](https://www.python.org) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
-- [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
 
 Full tech stack [here](/techstack.md)
 
@@ -17,11 +17,11 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 stackshareiodev/ad_public-apis is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png' alt='Requests'/> [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png' alt='Requests'/> [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareiodev/ad_public-apis](https://github.com/stackshareiodev/ad_public-apis)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|10<br/>Tools used|02/07/24 <br/>Report generated|
+|10<br/>Tools used|02/09/24 <br/>Report generated|
 |------|------|
 </div>
 
